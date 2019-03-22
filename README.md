@@ -90,7 +90,7 @@ phpunit PATH/TO/PROJECT/helpers
 
 ## License
 
-The CSE HELPERS is open-sourced software licensed under the MIT license. Please see [License File]((https://github.com/cs-session/helpers/blob/master/LICENSE.md)) for more information.
+The CSE HELPERS is open-sourced software licensed under the MIT license. Please see [License File]((https://github.com/cs-eliseev/helpers/blob/master/LICENSE.md)) for more information.
 
 ---
 
