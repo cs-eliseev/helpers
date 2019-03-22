@@ -1,6 +1,11 @@
 CSE HELPERS
 =======
 
+<p align="center">
+<a href="https://packagist.org/packages/cse/helpers"><img src="https://poser.pugx.org/cse/helpers/v/stable" /></a>
+<a href="https://github.com/cs-eliseev/helpers/blob/master/LICENSE.md"><img src="https://poser.pugx.org/cse/helpers/license" /></a>
+</p>
+
 CSE HELPERS is a collection of several libraries for the rapid development of web applications.
 
 Project repository: https://github.com/cs-eliseev/helpers
