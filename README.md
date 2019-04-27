@@ -1,3 +1,5 @@
+English | [Русский](https://github.com/cs-eliseev/helpers/blob/master/README.ru_RU.md)
+
 CSE HELPERS
 =======
 
@@ -72,7 +74,8 @@ git clone https://github.com/cs-eliseev/helpers.git
 ## Usage
 
 The all classes consists of static methods that are conveniently used in any project. 
-Examples of using classes can be found in the documentation for each project:
+
+_Examples of using classes can be found in the documentation for each project:_
 * [Arrays](https://github.com/cs-eliseev/helpers-arrays)
 * [Cookie](https://github.com/cs-eliseev/helpers-cookie)
 * [Date](https://github.com/cs-eliseev/helpers-date)
