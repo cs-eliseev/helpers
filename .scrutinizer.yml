@@ -1,0 +1,21 @@
+filter:
+  path:
+    - vendor/cse/*/src/
+
+checks:
+  php: true
+
+build:
+  nodes:
+    analysis:
+      environment:
+        php:
+          version: 7.3
+      project_setup:
+        override: true
+      tests:
+        override:
+          - php-scrutinizer-run
+  dependencies:
+    override:
+      - composer install --ignore-platform-reqs --no-interaction
