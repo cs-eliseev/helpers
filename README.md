@@ -1,10 +1,11 @@
 CSE HELPERS
 =======
 
-<p align="center">
-<a href="https://packagist.org/packages/cse/helpers"><img src="https://poser.pugx.org/cse/helpers/v/stable" /></a>
-<a href="https://github.com/cs-eliseev/helpers/blob/master/LICENSE.md"><img src="https://poser.pugx.org/cse/helpers/license" /></a>
-</p>
+[![Packagist](https://img.shields.io/packagist/v/cse/helpers.svg?style=flat-square)](https://packagist.org/packages/cse/helpers)
+[![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%207.1-8892BF.svg?style=flat-square)](https://packagist.org/packages/cse/helpers)
+[![Packagist](https://img.shields.io/packagist/l/cse/helpers.svg?style=flat-square)](https://github.com/cs-eliseev/helpers/blob/master/LICENSE.md)
+[![GitHub repo size](https://img.shields.io/github/repo-size/cs-eliseev/helpers.svg?style=flat-square)](https://github.com/cs-eliseev/helpers/archive/master.zip)
+
 
 CSE HELPERS is a collection of several libraries for the rapid development of web applications.
 
