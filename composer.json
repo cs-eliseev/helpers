@@ -14,17 +14,17 @@
   ],
   "require": {
     "php": ">=7.1",
-    "cse/helpers-arrays": "^1.0",
-    "cse/helpers-cookie": "^1.0",
-    "cse/helpers-date": "^1.0",
-    "cse/helpers-email": "^1.0",
-    "cse/helpers-ip": "^1.0",
-    "cse/helpers-json": "^1.0",
-    "cse/helpers-math-converter": "^1.0",
-    "cse/helpers-phone": "^1.0",
-    "cse/helpers-request": "^1.0",
-    "cse/helpers-session": "^1.1",
-    "cse/helpers-word": "^1.0"
+    "cse/helpers-arrays": "*",
+    "cse/helpers-cookie": "*",
+    "cse/helpers-date": "*",
+    "cse/helpers-email": "*",
+    "cse/helpers-ip": "*",
+    "cse/helpers-json": "*",
+    "cse/helpers-math-converter": "*",
+    "cse/helpers-phone": "*",
+    "cse/helpers-request": "*",
+    "cse/helpers-session": "*",
+    "cse/helpers-word": "*"
   },
   "require-dev": {
     "phpunit/phpunit": "*"
