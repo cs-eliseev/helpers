@@ -1,6 +1,3 @@
-filter:
-  path: [vendor/cse/*/src/*]
-
 checks:
   php: true
 
@@ -15,6 +12,8 @@ build:
       tests:
         override:
           - php-scrutinizer-run
+          - command: "./vendor/bin/phpunit --configuration phpunit.xml --testsuite scrutinizer"
+
   dependencies:
     override:
       - composer install --ignore-platform-reqs --no-interaction
