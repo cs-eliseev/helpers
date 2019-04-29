@@ -75,17 +75,72 @@ git clone https://github.com/cs-eliseev/helpers.git
 Все классы использует статические методы, которые удобно использовать в любом проекте.
 
 _Примеры работы с классами можно найти в документации для каждого проекта:_
-* [Arrays](https://github.com/cs-eliseev/helpers-arrays) - работа с массивами
-* [Cookie](https://github.com/cs-eliseev/helpers-cookie) - работа с куки
-* [Date](https://github.com/cs-eliseev/helpers-date) - работа с датами
-* [Emai](https://github.com/cs-eliseev/helpers-email) - работа с email адресами
-* [IP](https://github.com/cs-eliseev/helpers-ip) - работа с IPv4 и IPv6 адресами
-* [Json](https://github.com/cs-eliseev/helpers-json) - работа c JSON данными
-* [MathConverter](https://github.com/cs-eliseev/helpers-math-converter) - работа с матиматическими преобразованиями данных
-* [Phone](https://github.com/cs-eliseev/helpers-phone) - работа с телефонными адресами
-* [Request](https://github.com/cs-eliseev/helpers-request) - работа с запросами
-* [Session](https://github.com/cs-eliseev/helpers-session) - работа с сессиями
-* [Word](https://github.com/cs-eliseev/helpers-word) - работа с текстовыми данными
+
+* [Arrays](https://github.com/cs-eliseev/helpers-arrays) - расширеная работа с массивами
+
+[![Travis (.org)](https://img.shields.io/travis/cs-eliseev/helpers-arrays.svg?style=flat-square)](https://travis-ci.org/cs-eliseev/helpers-arrays)
+[![Codecov](https://img.shields.io/codecov/c/github/cs-eliseev/helpers-arrays.svg?style=flat-square)](https://codecov.io/gh/cs-eliseev/helpers-arrays)
+[![Scrutinizer code quality](https://img.shields.io/scrutinizer/g/cs-eliseev/helpers-arrays.svg?style=flat-square)](https://scrutinizer-ci.com/g/cs-eliseev/helpers-arrays/?branch=master)
+
+* [Cookie](https://github.com/cs-eliseev/helpers-cookie) - легкое управление куками
+
+[![Travis (.org)](https://img.shields.io/travis/cs-eliseev/helpers-cookie.svg?style=flat-square)](https://travis-ci.org/cs-eliseev/helpers-cookie)
+[![Codecov](https://img.shields.io/codecov/c/github/cs-eliseev/helpers-cookie.svg?style=flat-square)](https://codecov.io/gh/cs-eliseev/helpers-cookie)
+[![Scrutinizer code quality](https://img.shields.io/scrutinizer/g/cs-eliseev/helpers-cookie.svg?style=flat-square)](https://scrutinizer-ci.com/g/cs-eliseev/helpers-cookie/?branch=master)
+
+* [Date](https://github.com/cs-eliseev/helpers-date) - удобное приобразование дат
+
+[![Travis (.org)](https://img.shields.io/travis/cs-eliseev/helpers-date.svg?style=flat-square)](https://travis-ci.org/cs-eliseev/helpers-date)
+[![Codecov](https://img.shields.io/codecov/c/github/cs-eliseev/helpers-date.svg?style=flat-square)](https://codecov.io/gh/cs-eliseev/helpers-date)
+[![Scrutinizer code quality](https://img.shields.io/scrutinizer/g/cs-eliseev/helpers-date.svg?style=flat-square)](https://scrutinizer-ci.com/g/cs-eliseev/helpers-date/?branch=master)
+
+* [Emai](https://github.com/cs-eliseev/helpers-email) - расширеная работа с email адресами
+
+[![Travis (.org)](https://img.shields.io/travis/cs-eliseev/helpers-email.svg?style=flat-square)](https://travis-ci.org/cs-eliseev/helpers-email)
+[![Codecov](https://img.shields.io/codecov/c/github/cs-eliseev/helpers-email.svg?style=flat-square)](https://codecov.io/gh/cs-eliseev/helpers-email)
+[![Scrutinizer code quality](https://img.shields.io/scrutinizer/g/cs-eliseev/helpers-email.svg?style=flat-square)](https://scrutinizer-ci.com/g/cs-eliseev/helpers-email/?branch=master)
+
+* [IP](https://github.com/cs-eliseev/helpers-ip) - расширеная работа с IP (IPv4 и IPv6) адресами
+
+[![Travis (.org)](https://img.shields.io/travis/cs-eliseev/helpers-ip.svg?style=flat-square)](https://travis-ci.org/cs-eliseev/helpers-ip)
+[![Codecov](https://img.shields.io/codecov/c/github/cs-eliseev/helpers-ip.svg?style=flat-square)](https://codecov.io/gh/cs-eliseev/helpers-ip)
+[![Scrutinizer code quality](https://img.shields.io/scrutinizer/g/cs-eliseev/helpers-ip.svg?style=flat-square)](https://scrutinizer-ci.com/g/cs-eliseev/helpers-ip/?branch=master)
+
+* [Json](https://github.com/cs-eliseev/helpers-json) - легкое управление JSON данными
+
+[![Travis (.org)](https://img.shields.io/travis/cs-eliseev/helpers-json.svg?style=flat-square)](https://travis-ci.org/cs-eliseev/helpers-json)
+[![Codecov](https://img.shields.io/codecov/c/github/cs-eliseev/helpers-json.svg?style=flat-square)](https://codecov.io/gh/cs-eliseev/helpers-json)
+[![Scrutinizer code quality](https://img.shields.io/scrutinizer/g/cs-eliseev/helpers-json.svg?style=flat-square)](https://scrutinizer-ci.com/g/cs-eliseev/helpers-json/?branch=master)
+
+* [MathConverter](https://github.com/cs-eliseev/helpers-math-converter) - удобные матиматические преобразования данных
+
+[![Travis (.org)](https://img.shields.io/travis/cs-eliseev/helpers-math-converter.svg?style=flat-square)](https://travis-ci.org/cs-eliseev/helpers-math-converter)
+[![Codecov](https://img.shields.io/codecov/c/github/cs-eliseev/helpers-math-converter.svg?style=flat-square)](https://codecov.io/gh/cs-eliseev/helpers-math-converter)
+[![Scrutinizer code quality](https://img.shields.io/scrutinizer/g/cs-eliseev/helpers-math-converter.svg?style=flat-square)](https://scrutinizer-ci.com/g/cs-eliseev/helpers-math-converter/?branch=master)
+
+* [Phone](https://github.com/cs-eliseev/helpers-phone) - расширеная работа с телефонными номерами
+
+[![Travis (.org)](https://img.shields.io/travis/cs-eliseev/helpers-phone.svg?style=flat-square)](https://travis-ci.org/cs-eliseev/helpers-phone)
+[![Codecov](https://img.shields.io/codecov/c/github/cs-eliseev/helpers-phone.svg?style=flat-square)](https://codecov.io/gh/cs-eliseev/helpers-phone)
+[![Scrutinizer code quality](https://img.shields.io/scrutinizer/g/cs-eliseev/helpers-phone.svg?style=flat-square)](https://scrutinizer-ci.com/g/cs-eliseev/helpers-phone/?branch=master)
+
+* [Request](https://github.com/cs-eliseev/helpers-request) - легкое управление запросами
+
+[![Travis (.org)](https://img.shields.io/travis/cs-eliseev/helpers-request.svg?style=flat-square)](https://travis-ci.org/cs-eliseev/helpers-request)
+[![Codecov](https://img.shields.io/codecov/c/github/cs-eliseev/helpers-request.svg?style=flat-square)](https://codecov.io/gh/cs-eliseev/helpers-request)
+[![Scrutinizer code quality](https://img.shields.io/scrutinizer/g/cs-eliseev/helpers-request.svg?style=flat-square)](https://scrutinizer-ci.com/g/cs-eliseev/helpers-request/?branch=master)
+
+* [Session](https://github.com/cs-eliseev/helpers-session) - легкое управление сессиями
+
+[![Travis (.org)](https://img.shields.io/travis/cs-eliseev/helpers-session.svg?style=flat-square)](https://travis-ci.org/cs-eliseev/helpers-session)
+[![Codecov](https://img.shields.io/codecov/c/github/cs-eliseev/helpers-session.svg?style=flat-square)](https://codecov.io/gh/cs-eliseev/helpers-session)
+[![Scrutinizer code quality](https://img.shields.io/scrutinizer/g/cs-eliseev/helpers-session.svg?style=flat-square)](https://scrutinizer-ci.com/g/cs-eliseev/helpers-session/?branch=master)
+
+* [Word](https://github.com/cs-eliseev/helpers-word) - удобное преобразование текстовых данных
+
+[![Travis (.org)](https://img.shields.io/travis/cs-eliseev/helpers-word.svg?style=flat-square)](https://travis-ci.org/cs-eliseev/helpers-word)
+[![Codecov](https://img.shields.io/codecov/c/github/cs-eliseev/helpers-word.svg?style=flat-square)](https://codecov.io/gh/cs-eliseev/helpers-word)
+[![Scrutinizer code quality](https://img.shields.io/scrutinizer/g/cs-eliseev/helpers-word.svg?style=flat-square)](https://scrutinizer-ci.com/g/cs-eliseev/helpers-word/?branch=master)
 
 
 ## Тестирование и покрытие кода
