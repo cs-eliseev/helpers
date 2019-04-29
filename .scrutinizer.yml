@@ -1,6 +1,5 @@
 filter:
-  path:
-    - vendor/cse/*/src/
+  path: [vendor/cse/*/src/*]
 
 checks:
   php: true
